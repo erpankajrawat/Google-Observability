@@ -1,0 +1,5 @@
+# sample-apps/requirements.txt
+Flask==2.3.3
+google-cloud-pubsub==2.18.0
+google-cloud-logging==3.8.0
+gunicorn==21.2.0
